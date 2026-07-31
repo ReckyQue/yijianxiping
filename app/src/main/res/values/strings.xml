@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">一键息屏</string>
+    <string name="setup_start_shizuku">请先启动 Shizuku（电脑 adb 或无线调试）\n启动并授权本应用后，点击桌面图标即可息屏\n\n整机重启后需重新启动 Shizuku</string>
+    <string name="setup_need_grant">请点击下方按钮，在 Shizuku 弹窗中授权本应用</string>
+    <string name="setup_shizuku_dead">Shizuku 已断开\n请重新启动 Shizuku 后再试</string>
+    <string name="btn_grant_shizuku">授权并息屏</string>
+    <string name="btn_open_shizuku">打开 Shizuku</string>
+    <string name="toast_start_shizuku_first">请先在 Shizuku 中点「启动」</string>
+    <string name="toast_shizuku_missing">未安装 Shizuku</string>
+    <string name="lock_failed">息屏失败：%1$s</string>
+</resources>
